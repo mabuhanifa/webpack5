@@ -1,1 +1,3 @@
-console.log("hello world");
+import generateJokes from "./generateJokes";
+
+console.log(generateJokes());
